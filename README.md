@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+EcoVoz: O Guia de Sustentabilidade Urbana 🌿
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um Podcast Educativo de Curto Formato (3 minutos) focado em dicas práticas de sustentabilidade para quem vive em grandes centros urbanos. O diferencial aqui é a busca pelo "Natty": uma sonoridade e roteiro que não pareçam robóticos, mas sim uma conversa natural e fluida.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (OpenAI): Para a estruturação do roteiro e brainstorming de temas.
+
+- ElevenLabs: Para a síntese de voz (utilizando um modelo de voz com entonação emocional e pausas naturais).
+
+- Adobe Podcast (Enhance): Para pós-processamento de áudio, removendo ruídos e dando qualidade de estúdio profissional.
+
+- Canva: Para a criação da arte de capa do podcast (usando o gerador de imagens Magic Media).
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Roteirização: Usei o ChatGPT para criar um roteiro de 300 palavras. Pedi especificamente para incluir "marcas de oralidade" (como "veja bem", "sabe?") para evitar a rigidez da escrita formal.
+
+- Geração de Voz: No ElevenLabs, selecionei uma voz com perfil "Casual Conversational". Ajustei os parâmetros de Stability e Style Exaggeration para garantir que a voz tivesse variações de tom.
+
+- Refino do Áudio: O arquivo gerado passou pelo Adobe Podcast Enhance para garantir que o som final parecesse gravado com um microfone condensador de alta qualidade.
+
+- Identidade Visual: Gere uma imagem no Canva com o prompt: "Minimalist podcast cover, urban jungle aesthetic, green and concrete textures, professional typography."
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um áudio de alta fidelidade que desafia o ouvinte a identificar se é um humano ou uma IA falando. O roteiro é informativo e a estética visual complementa a proposta de modernidade e natureza.
+
+- [Link para o Áudio (Exemplo: Drive/SoundCloud)]
+
+- [Link para a Capa do Projeto]
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O maior desafio de criar algo "Natty" com IA é o ajuste fino. A IA tende a ser perfeita demais, e a perfeição soa artificial. Adicionar pequenas "imperfeições" humanas no roteiro e escolher modelos de voz que respeitem a pontuação emocional é o que separa um conteúdo genérico de um projeto de destaque.
